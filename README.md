@@ -44,7 +44,7 @@ If you want to reproduce the Tables, you must have computed the prediction with 
 
 ### Computing the Predicted Distribution of the Mass and Speed
 
-As a reminder, the predicted distribution is specific, tailored, to each point of each flight. To test the script, you might want to compute it considering only the flight of a given aircraft type. For instance, if you want to compute for the DH8D flights, just type:
+As a reminder, the predicted distribution is specific, tailored, to each point of each flight. To test the script, you might want to compute it considering only the flights of a given aircraft type. For instance, if you want to compute for the DH8D flights, just type:
 
 ```
 make MODELS="DH8D"
