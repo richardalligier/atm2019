@@ -57,7 +57,7 @@ To compute the predicted distributions for all the aircraft types, you only have
 make
 ```
 
-This script uses 4 thread and the GPU. It takes several days (maybe a week depending on your computer). Depending on the aircraft type being computed it can take up to approximately 9GB of RAM.
+This script uses 4 thread and the GPU. It takes several days (maybe a week depending on your computer). Depending on the aircraft type being computed it can take up to approximately 26GB of RAM.
 
 
 ### Reproducing Figures
