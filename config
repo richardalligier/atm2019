@@ -1,0 +1,9 @@
+DATA_PATH := ./Data
+GBM_RES := ./Data
+
+MODELS := CRJ9 DH8D E190 E195 A332 B77W B737 A319 A321 A320 B738
+XVARS := abcdeimopstz
+YVARS := all
+
+FIGURE_FOLDER := ./Figure
+TABLE_FOLDER := ./Table
